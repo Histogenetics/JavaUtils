@@ -1,2 +1,6 @@
 
 *.class
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/JavaUtilsApplication/JavaUtils/pom.properties
+target/classes/META-INF/maven/JavaUtilsApplication/JavaUtils/pom.xml
+target/classes/pacbioSNP_dbconnectionsconfiguration.properties
